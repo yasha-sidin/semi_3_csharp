@@ -1,0 +1,15 @@
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар 3\Console_3\bin\Debug\net7.0\Console_3.exe
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар 3\Console_3\bin\Debug\net7.0\Console_3.deps.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар 3\Console_3\bin\Debug\net7.0\Console_3.runtimeconfig.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар 3\Console_3\bin\Debug\net7.0\Console_3.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар 3\Console_3\bin\Debug\net7.0\Console_3.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар 3\Console_3\obj\Debug\net7.0\Console_3.csproj.AssemblyReference.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар 3\Console_3\obj\Debug\net7.0\Console_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар 3\Console_3\obj\Debug\net7.0\Console_3.AssemblyInfoInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар 3\Console_3\obj\Debug\net7.0\Console_3.AssemblyInfo.cs
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар 3\Console_3\obj\Debug\net7.0\Console_3.csproj.CoreCompileInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар 3\Console_3\obj\Debug\net7.0\Console_3.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар 3\Console_3\obj\Debug\net7.0\refint\Console_3.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар 3\Console_3\obj\Debug\net7.0\Console_3.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар 3\Console_3\obj\Debug\net7.0\Console_3.genruntimeconfig.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар 3\Console_3\obj\Debug\net7.0\ref\Console_3.dll
